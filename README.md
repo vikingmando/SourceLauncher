@@ -1,4 +1,4 @@
-# SourceLauncher
+README
 
 Electron NGE Launcher (Credit to RoC for original code) 
 

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Source Launcher</title>
+        <style>
+            .button {
+                position: absolute;
+                left: 2%;
+                width: 225px;
+                height: 30px;
+                border: none;
+                cursor: pointer;
+            }
+            :focus {
+                outline: 0;
+            }
+            .traybutton {
+                color: #fff;
+                background-color: #000;
+                height: 32px;
+                width: 32px;
+                font-size: 16px;
+                line-height: 16px;
+                font-weight: 1000;
+                border-radius: 5px;
+                border: none;
+            }
+            .rightbox {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: calc(6% + 275px);
+                right: 2%;
+            }
+            .right {
+                font: 24px Arial;
+                color: #fff;
+                position: absolute;
+                width: 100%;
+                text-align: center;
+            }
+            .shadow {
+                box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.75);
+            }
+            .right.button {
+                height: 45px;
+                width: 155px;
+                right: -7px;
+                left: initial;
+                border: none;
+            }
+            .right.input {
+                border: 3px solid #828282;
+                border-radius: 8px;
+                background-color: #000;
+                box-sizing: border-box;
+                color: #fff;
+            }
+            button.right {
+                background-color: #000;
+                cursor: pointer;
+                border-radius: 8px;
+                border: 3px solid #828282;
+                color: #fff;
+            }
+            button.right:disabled {
+                background-color: #2f2f2f;
+            }
+            #version {
+                position: absolute;
+                left: 5px;
+                bottom: 5px;
+                font: 10px Arial;
+                color: #fff;
+                cursor: pointer;
+                z-index: 1000;
+            }
+            #modlist {
+                background-color: #000;
+                border: 3px solid #828282;
+                border-radius: 8px;
+                color: black;
+                box-sizing: border-box;
+                padding: 0;
+                margin: 0;
+            }
+            #modlist li {
+                list-style-type: none;
+                display: inline-block;
+                margin-left: 10px;
+            }
+
+            #play {
+                background: url(./img/playbutton.png) no-repeat;
+            }
+            #play:hover {
+                background: url(./img/playbuttonhov.png) no-repeat;
+            }
+            #play:disabled {
+                background: url(./img/playbuttondis.png) no-repeat;
+            }
+
+            #settings {
+                background: url(./img/settingsbutton.png) no-repeat;
+            }
+            #settings:hover {
+                background: url(./img/settingsbuttonhov.png) no-repeat;
+            }
+            #settings:disabled {
+                background: url(./img/settingsbuttondis.png) no-repeat;
+            }
+
+            #web {
+                background: url(./img/websitebutton.png) no-repeat;
+            }
+            #web:hover {
+                background: url(./img/websitebuttonhov.png) no-repeat;
+            }
+            #web:disabled {
+                background: url(./img/webbuttondis.png) no-repeat;
+            }
+
+            #disc {
+                background: url(./img/discordbutton.png) no-repeat;
+            }
+            #disc:hover {
+                background: url(./img/discordbuttonhov.png) no-repeat;
+            }
+            #disc:disabled {
+                background: url(./img/discbuttondis.png) no-repeat;
+            }
+
+            #home {
+                background: url(./img/homebutton.png) no-repeat;
+            }
+            #home:hover {
+                background: url(./img/homebuttonhov.png) no-repeat;
+            }
+
+            #minimize {
+                background: url(./img/minimize.png) no-repeat;
+            }
+            #maximize {
+                background: url(./img/maximize.png) no-repeat;
+            }
+            #close {
+                background: url(./img/close.png) no-repeat;
+            }
+
+            webview { height: 300px; width: 650px;}
+        </style>
+    </head>
+    <body style="overflow: hidden; height: 100%; user-select: none;">
+        <img class="header-img" src="./img/launcher-background1.jpg" alt="" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; z-index: -1;" />
+        <div style="position: absolute; top: 5px; right: 5px; z-index: 1000;">
+            <button id="minimize" class="traybutton"></button>
+            <button id="maximize" class="traybutton"></button>
+            <button id="close" class="traybutton"></button>
+        </div>
+        <div id="rightcontent" class="rightbox">
+            <div class="right" style="top: calc(30% + 12px);"></div>
+            <img class="update-img" src="./img/updateimage.png" alt="" style="padding-top: 35%; opacity: 70%;" />
+            <div class="webview-wrapper">
+                <webview id="updates" src="Splashpage URL for patch note review"></webview>
+            </div>
+        </div>
+        <div id="rightsettings" class="rightbox" style="display: none;">
+            <div class="right" style="top: 12px;">Nexus Folder</div>
+            <input id="folder" type="text" class="right shadow input" style="top: 48px;"/>
+            <button id="browse" class="right shadow" style="top: 96px;">Browse</button>
+            <button id="install" class="right shadow" style="top: 144px; width: 38%;">Install From SWG</button>
+            <button id="fullscan" class="right shadow" style="top: 144px; left: 40%; width: 38%;">Full Scan</button>
+            <button id="cancel" class="right shadow" style="top: 144px; left: 80%; width: 20%;">Cancel</button>
+            <button id="gamesettings" class="right shadow" style="bottom: 70px;">Game Settings</button>
+            <button id="home" class="right button" style="bottom: 12px;"></button>
+        </div>
+		
+
+        <img class="header-img" src="./img/yourlogo.png" alt="Your logo here" style="position: absolute; left: -60px; top: -60px; -webkit-app-region: drag; width: 475px; overflow: hidden;" />
+       
+        <button id="play" class="button" disabled style="top: 55%;"></button>
+        <div id="progressbox" class="button shadow" style="top: 48%; height: 24px; color: black; font-size: 16px; border: 3px solid #828282; box-sizing: border-box; background-color: black;">
+         <div id="progress" style="width: 60%; height: 100%; background-color: #77a028; border-radius: 2px;"></div>
+        <div id="progresstext" style="position: absolute; top: 0; color: #fff; width: 100%; height: 100%; text-align: center;"></div>
+        </div>
+        <button id="settings" class="button" style="top: 63%;"></button>
+        <button id="web" class="button" style="top: 70%;"></button>
+        <button id="disc" class="button" style="top: 77%;"></button>
+        <div id="version"></div>
+    </body>
+
+    <script>
+        require("./renderer.js");
+    </script>
+</html>

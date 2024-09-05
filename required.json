@@ -1,0 +1,2738 @@
+[
+    {
+        "md5":  "450E4ACF0EF9DCBFA97D5016E1B93835",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/!CheckMinSpec.dll",
+        "name":  "!CheckMinSpec.dll",
+        "size":  28672
+    },
+    {
+        "md5":  "D40A46C055BD9DC0AEFA3377D393845D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/alut.dll",
+        "name":  "alut.dll",
+        "size":  135824
+    },
+    {
+        "md5":  "29AF39C2B96D35EBA67D3189695AC19D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/binkw32.dll",
+        "name":  "binkw32.dll",
+        "size":  171008
+    },
+    {
+        "md5":  "63C2D21719ED56D96B70373D99CC94D6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/bottom.tre",
+        "name":  "bottom.tre",
+        "size":  16205884
+    },
+    {
+        "md5":  "879BB0FBBF451DD1438C33DE8CF66B27",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/client.cfg",
+        "name":  "client.cfg",
+        "size":  309
+    },
+    {
+        "md5":  "1AE26649AF2C30EFE317850C4CB1A4BD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_animation_00.tre",
+        "name":  "data_animation_00.tre",
+        "size":  58966791
+    },
+    {
+        "md5":  "88EE64F7E334616FBF688B09022E81DF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_music_00.tre",
+        "name":  "data_music_00.tre",
+        "size":  77322894
+    },
+    {
+        "md5":  "59CB600A9AF908B98D8D1C8934EC932B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_other_00.tre",
+        "name":  "data_other_00.tre",
+        "size":  46546173
+    },
+    {
+        "md5":  "C96A2EB77F27B6453053F0820B38AB7C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sample_00.tre",
+        "name":  "data_sample_00.tre",
+        "size":  104636589
+    },
+    {
+        "md5":  "9C0C272400DD2780ADDD9A8E25334FBF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sample_01.tre",
+        "name":  "data_sample_01.tre",
+        "size":  104848649
+    },
+    {
+        "md5":  "52A3CC6829DF957C9D72ECCC1B23CAD2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sample_02.tre",
+        "name":  "data_sample_02.tre",
+        "size":  104806646
+    },
+    {
+        "md5":  "2947689850819A256171547AF1A300D1",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sample_03.tre",
+        "name":  "data_sample_03.tre",
+        "size":  104479178
+    },
+    {
+        "md5":  "A22F0C8C8F4B6104647AF628579CC0E3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sample_04.tre",
+        "name":  "data_sample_04.tre",
+        "size":  33887496
+    },
+    {
+        "md5":  "ECDAEFC123971D167159698F0F47ACA4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_skeletal_mesh_00.tre",
+        "name":  "data_skeletal_mesh_00.tre",
+        "size":  104259690
+    },
+    {
+        "md5":  "F39551AE0BDA6B2EE0BC4C954FCD3699",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_skeletal_mesh_01.tre",
+        "name":  "data_skeletal_mesh_01.tre",
+        "size":  42575909
+    },
+    {
+        "md5":  "218BB19915380A12B74238A1D74AB27E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sku1_00.tre",
+        "name":  "data_sku1_00.tre",
+        "size":  104853089
+    },
+    {
+        "md5":  "EBA6980265B5D742A3FF8897C6CB2AB5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sku1_01.tre",
+        "name":  "data_sku1_01.tre",
+        "size":  104861757
+    },
+    {
+        "md5":  "15787E9235DF1BD8031B5076558E68E0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sku1_02.tre",
+        "name":  "data_sku1_02.tre",
+        "size":  105217918
+    },
+    {
+        "md5":  "CAF586E0B039C79FF2197CEAF2A747B1",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sku1_03.tre",
+        "name":  "data_sku1_03.tre",
+        "size":  104461486
+    },
+    {
+        "md5":  "4D2734716AFCB4F8607BB47243ACB15F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sku1_04.tre",
+        "name":  "data_sku1_04.tre",
+        "size":  104915626
+    },
+    {
+        "md5":  "9101B7BF19BD225854E84E42565F8BD6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sku1_05.tre",
+        "name":  "data_sku1_05.tre",
+        "size":  7576262
+    },
+    {
+        "md5":  "88F986A7DE3BD5617A7E16042BD368CE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sku1_06.tre",
+        "name":  "data_sku1_06.tre",
+        "size":  22566812
+    },
+    {
+        "md5":  "7511E70CFD04FA20E796FC826FBE0FCF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_sku1_07.tre",
+        "name":  "data_sku1_07.tre",
+        "size":  2333549
+    },
+    {
+        "md5":  "EC1FA71AF211FCF1CD86F5AA8752283A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_static_mesh_00.tre",
+        "name":  "data_static_mesh_00.tre",
+        "size":  104681322
+    },
+    {
+        "md5":  "D453B7F6F562368A4D06A3F9FD4E8339",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_static_mesh_01.tre",
+        "name":  "data_static_mesh_01.tre",
+        "size":  94719985
+    },
+    {
+        "md5":  "6C8C538D209F5BD428BC9DA194EBD30D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_texture_00.tre",
+        "name":  "data_texture_00.tre",
+        "size":  104816351
+    },
+    {
+        "md5":  "740124B213B92A16907A0FBAAD0FA130",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_texture_01.tre",
+        "name":  "data_texture_01.tre",
+        "size":  104831553
+    },
+    {
+        "md5":  "9D5DDA098C258BB5CAA84A610715D834",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_texture_02.tre",
+        "name":  "data_texture_02.tre",
+        "size":  104923301
+    },
+    {
+        "md5":  "636C5D29046F354C8A118B3C96285084",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_texture_03.tre",
+        "name":  "data_texture_03.tre",
+        "size":  104659874
+    },
+    {
+        "md5":  "80057E761DC219250B9319E61F10BA91",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_texture_04.tre",
+        "name":  "data_texture_04.tre",
+        "size":  104887073
+    },
+    {
+        "md5":  "FE62A811E86F38A21080B02782C9E662",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_texture_05.tre",
+        "name":  "data_texture_05.tre",
+        "size":  104820008
+    },
+    {
+        "md5":  "968D2CAFBA5A4C5FCEDBEEBA7A8C4D20",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_texture_06.tre",
+        "name":  "data_texture_06.tre",
+        "size":  104773001
+    },
+    {
+        "md5":  "C77F34FFA2C15663679F1AA86C43A3D5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/data_texture_07.tre",
+        "name":  "data_texture_07.tre",
+        "size":  66226334
+    },
+    {
+        "md5":  "21E77BCBE81C83284AEEA5127C197718",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/dbghelp.dll",
+        "name":  "dbghelp.dll",
+        "size":  676864
+    },
+    {
+        "md5":  "5C350D0C2B331B342D52D1155A4C160E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/dbghelp_6.3.17.0.dll",
+        "name":  "dbghelp_6.3.17.0.dll",
+        "size":  940032
+    },
+    {
+        "md5":  "D4542A4F55A6155235AFCFD683A79D57",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/defaultLights.iff",
+        "name":  "defaultLights.iff",
+        "size":  24
+    },
+    {
+        "md5":  "907194CD54EFD6820C84DB37C47DFE2D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/default_patch.tre",
+        "name":  "default_patch.tre",
+        "size":  60331
+    },
+    {
+        "md5":  "D3A0546870612766240C153C8465D208",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/disable_wayfar_dearic_snow.tre",
+        "name":  "disable_wayfar_dearic_snow.tre",
+        "size":  2697174
+    },
+    {
+        "md5":  "F28B8BF7911A59E22E145A5DA18F873E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/DllExport.dll",
+        "name":  "DllExport.dll",
+        "size":  80384
+    },
+    {
+        "md5":  "126D37DFC9D1A545B39A5B4B908E8A90",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/dpvs.dll",
+        "name":  "dpvs.dll",
+        "size":  583680
+    },
+    {
+        "md5":  "CA2B784DD19483A452E6766E9542E025",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/gksvggdiplus.dll",
+        "name":  "gksvggdiplus.dll",
+        "size":  37888
+    },
+    {
+        "md5":  "F7E92AF1757A5AA145CC7C92B78FE6A6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/gl05_r.dll",
+        "name":  "gl05_r.dll",
+        "size":  2413568
+    },
+    {
+        "md5":  "F318BB60397F821E49E9B9D4054D184C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/gl06_r.dll",
+        "name":  "gl06_r.dll",
+        "size":  2379776
+    },
+    {
+        "md5":  "E78603544B2F680DAE603F0B4ED79A92",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/gl07_r.dll",
+        "name":  "gl07_r.dll",
+        "size":  2400256
+    },
+    {
+        "md5":  "005E38EFF86EC0341E981444444A3A56",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/gu8.tre",
+        "name":  "gu8.tre",
+        "size":  20291357
+    },
+    {
+        "md5":  "647963F9AC18B89FC1D700964C7D0220",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/hotfix_56_client_00.tre",
+        "name":  "hotfix_56_client_00.tre",
+        "size":  17768462
+    },
+    {
+        "md5":  "27B1BFF8A3FEDA7EC5464FB66D3F00AE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/hotfix_56_shared_00.tre",
+        "name":  "hotfix_56_shared_00.tre",
+        "size":  2881496
+    },
+    {
+        "md5":  "0A0461BDD3B2D01AFF877BCAE2364F3F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/hotfix_59_client_00.tre",
+        "name":  "hotfix_59_client_00.tre",
+        "size":  1381386
+    },
+    {
+        "md5":  "2D832B051FC2840CC77CD9E68B86DFF6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/hotfix_59_shared_00.tre",
+        "name":  "hotfix_59_shared_00.tre",
+        "size":  4326904
+    },
+    {
+        "md5":  "ADD0F2268BEE5DBCF947039C6EC9726B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/hotfix_sku1_59_client_00.tre",
+        "name":  "hotfix_sku1_59_client_00.tre",
+        "size":  1116547
+    },
+    {
+        "md5":  "353642B20EEE4F8A7345BCE72224BB7B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ILM_animation.tre",
+        "name":  "ILM_animation.tre",
+        "size":  1673120
+    },
+    {
+        "md5":  "0DF4F79347922C05A69469FA7D725B3F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ILM_maps.tre",
+        "name":  "ILM_maps.tre",
+        "size":  109034505
+    },
+    {
+        "md5":  "852760088F1D048685CE59587806E3E3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ILM_music.tre",
+        "name":  "ILM_music.tre",
+        "size":  104810794
+    },
+    {
+        "md5":  "22E0ECB9FD717D8A8D5B051D80703028",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ILM_sound.tre",
+        "name":  "ILM_sound.tre",
+        "size":  176034764
+    },
+    {
+        "md5":  "C984F3AF606A95C64BFC42764F77AE1B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ILM_ui.tre",
+        "name":  "ILM_ui.tre",
+        "size":  695917
+    },
+    {
+        "md5":  "3F53C7DDACDC2095B0B447DB3754E4E2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ILM_visuals.tre",
+        "name":  "ILM_visuals.tre",
+        "size":  1783504764
+    },
+    {
+        "md5":  "780C2FD4B3117A7D3F77A6F3BDC6629D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/js3250.dll",
+        "name":  "js3250.dll",
+        "size":  425984
+    },
+    {
+        "md5":  "3AB55E626F46606477852216F0352578",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/libsndfile-1.dll",
+        "name":  "libsndfile-1.dll",
+        "size":  325120
+    },
+    {
+        "md5":  "4B3065743F457A9BED0CB0591AFCE42D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/live.cfg",
+        "name":  "live.cfg",
+        "size":  876
+    },
+    {
+        "md5":  "768F59859F1261879053CDA6C7112CA6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/local_machine_options.iff",
+        "name":  "local_machine_options.iff",
+        "size":  14505
+    },
+    {
+        "md5":  "3EB6E5D74F24E6D1CF63646E59017942",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/login.cfg",
+        "name":  "login.cfg",
+        "size":  163
+    },
+    {
+        "md5":  "D560E68431D937CB4681612C741D639D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/Mss32.dll",
+        "name":  "Mss32.dll",
+        "size":  449536
+    },
+    {
+        "md5":  "86F1895AE8C5E8B17D99ECE768A70732",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/msvcr71.dll",
+        "name":  "msvcr71.dll",
+        "size":  348160
+    },
+    {
+        "md5":  "E9E0B888F3BA0594D86DFD18F51D4152",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/nspr4.dll",
+        "name":  "nspr4.dll",
+        "size":  159744
+    },
+    {
+        "md5":  "04B28A5F39BD72ADC142F0DA1C3EFBFB",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/nss3.dll",
+        "name":  "nss3.dll",
+        "size":  372736
+    },
+    {
+        "md5":  "213460CDA4CB881FD65B498C59DA2F60",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/nssckbi.dll",
+        "name":  "nssckbi.dll",
+        "size":  233472
+    },
+    {
+        "md5":  "CEC659A24362A5698438B8E7297460C8",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/options.cfg",
+        "name":  "options.cfg",
+        "size":  365
+    },
+    {
+        "md5":  "B0504666ADB97DC227C00621795B959B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ortp.dll",
+        "name":  "ortp.dll",
+        "size":  262144
+    },
+    {
+        "md5":  "1517A0A0E7E11C5D1AFC43C1B404A045",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_00.tre",
+        "name":  "patch_00.tre",
+        "size":  18779819
+    },
+    {
+        "md5":  "36FD18E8342B23AE2DF51B916324F348",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_01.tre",
+        "name":  "patch_01.tre",
+        "size":  17757229
+    },
+    {
+        "md5":  "2324ADAD81158DE1E938DB603287AC50",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_02.tre",
+        "name":  "patch_02.tre",
+        "size":  3396766
+    },
+    {
+        "md5":  "BFDCA07C64D3D8F706889EAFA5E8B666",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_03.tre",
+        "name":  "patch_03.tre",
+        "size":  20870097
+    },
+    {
+        "md5":  "4A3604D48F2301341326E0B101280968",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_04.tre",
+        "name":  "patch_04.tre",
+        "size":  27137114
+    },
+    {
+        "md5":  "207B70E873A73361EFDFC9D1703FC16D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_05.tre",
+        "name":  "patch_05.tre",
+        "size":  25827774
+    },
+    {
+        "md5":  "1102BBDF4628D9EE09FBE87D323017F9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_06.tre",
+        "name":  "patch_06.tre",
+        "size":  40724726
+    },
+    {
+        "md5":  "17509E1D6F4FC09AB780DFEB7398CF9C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_07.tre",
+        "name":  "patch_07.tre",
+        "size":  40567157
+    },
+    {
+        "md5":  "775454FC68755AD45C1E1D09FF06D645",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_08.tre",
+        "name":  "patch_08.tre",
+        "size":  36984057
+    },
+    {
+        "md5":  "021A722867D01FB7BC6B134A26B2DF38",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_09.tre",
+        "name":  "patch_09.tre",
+        "size":  57214055
+    },
+    {
+        "md5":  "A9B46686BE046E866344E79D5515F236",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_10.tre",
+        "name":  "patch_10.tre",
+        "size":  33429694
+    },
+    {
+        "md5":  "EB6289B9162851F2EE1ADF00A9394DF5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_11_00.tre",
+        "name":  "patch_11_00.tre",
+        "size":  103221850
+    },
+    {
+        "md5":  "B7E13F12D157187212ED0CC7D5A71F87",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_11_01.tre",
+        "name":  "patch_11_01.tre",
+        "size":  28868084
+    },
+    {
+        "md5":  "2B63328B66DB99F2D7D8858242A8BC4B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_11_02.tre",
+        "name":  "patch_11_02.tre",
+        "size":  28713778
+    },
+    {
+        "md5":  "DEB4626249C2B9C42DBA8E4226DBD030",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_11_03.tre",
+        "name":  "patch_11_03.tre",
+        "size":  7517816
+    },
+    {
+        "md5":  "39AC219E16AD81C78075CF326886365D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_12_00.tre",
+        "name":  "patch_12_00.tre",
+        "size":  32863489
+    },
+    {
+        "md5":  "69650433D897167D74C0E352C4BE9D8E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_13_00.tre",
+        "name":  "patch_13_00.tre",
+        "size":  6032263
+    },
+    {
+        "md5":  "0649BD5305DD18CD5378CF542647E543",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_14_00.tre",
+        "name":  "patch_14_00.tre",
+        "size":  36469339
+    },
+    {
+        "md5":  "7D11E335B45439803C951BE268D13A18",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_15_00.tre",
+        "name":  "patch_15_00.tre",
+        "size":  104355270
+    },
+    {
+        "md5":  "B58DFE06486F87CE2844F7725B94DEA0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_15_01.tre",
+        "name":  "patch_15_01.tre",
+        "size":  104881663
+    },
+    {
+        "md5":  "54C3DAA737465EA3934DD2C3089EFDFC",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_15_02.tre",
+        "name":  "patch_15_02.tre",
+        "size":  76498147
+    },
+    {
+        "md5":  "AE508517354B358634B9E37129235860",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_16_00.tre",
+        "name":  "patch_16_00.tre",
+        "size":  26584666
+    },
+    {
+        "md5":  "C9C3616C7DC5628798B33DF7E07D29A6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_17_00.tre",
+        "name":  "patch_17_00.tre",
+        "size":  56385141
+    },
+    {
+        "md5":  "3D9EB950E234C80DE72444C648D22171",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_18_client_00.tre",
+        "name":  "patch_18_client_00.tre",
+        "size":  1135529
+    },
+    {
+        "md5":  "48A0D94243693AB16935DCFBB2ACAB09",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_18_shared_00.tre",
+        "name":  "patch_18_shared_00.tre",
+        "size":  1770486
+    },
+    {
+        "md5":  "2EE0BCD7E01ACBE0C872301E1A5AEDD6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_19_client_00.tre",
+        "name":  "patch_19_client_00.tre",
+        "size":  10985558
+    },
+    {
+        "md5":  "0B576F76B06037BAD69B242D5B128D4D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_19_shared_00.tre",
+        "name":  "patch_19_shared_00.tre",
+        "size":  2156419
+    },
+    {
+        "md5":  "A4AEE373E1131E584B222B1181659F6A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_20_client_00.tre",
+        "name":  "patch_20_client_00.tre",
+        "size":  22326935
+    },
+    {
+        "md5":  "3BF144452B7E03D78ABDE647A1040849",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_20_shared_00.tre",
+        "name":  "patch_20_shared_00.tre",
+        "size":  2283894
+    },
+    {
+        "md5":  "64FFB477432E732A7FB139379BE5D219",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_23_client_00.tre",
+        "name":  "patch_23_client_00.tre",
+        "size":  18082800
+    },
+    {
+        "md5":  "ED4E2275BA67470D472C228A78DF9897",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_23_shared_00.tre",
+        "name":  "patch_23_shared_00.tre",
+        "size":  15445899
+    },
+    {
+        "md5":  "B0DB9C146CA9382E9034A6FAB9A050F2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_24_client_00.tre",
+        "name":  "patch_24_client_00.tre",
+        "size":  104857042
+    },
+    {
+        "md5":  "671F50B1336728117D3076BE8910FDA4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_24_client_01.tre",
+        "name":  "patch_24_client_01.tre",
+        "size":  87593041
+    },
+    {
+        "md5":  "768E76AB9A41A03D2B2C29C3C7F30733",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_24_shared_00.tre",
+        "name":  "patch_24_shared_00.tre",
+        "size":  15582880
+    },
+    {
+        "md5":  "D77973CFA71782DB4AD135A2E723529B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_25_client_00.tre",
+        "name":  "patch_25_client_00.tre",
+        "size":  8918562
+    },
+    {
+        "md5":  "1C449496F29BF072A2A86C29F248E6F6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_25_shared_00.tre",
+        "name":  "patch_25_shared_00.tre",
+        "size":  5713512
+    },
+    {
+        "md5":  "24615AAFB704E1EC21B636138C501B09",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_26_client_00.tre",
+        "name":  "patch_26_client_00.tre",
+        "size":  104785564
+    },
+    {
+        "md5":  "E6479B22DCA5012F77A1BC374FD20617",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_26_client_01.tre",
+        "name":  "patch_26_client_01.tre",
+        "size":  37424377
+    },
+    {
+        "md5":  "31C31BD6564487A0B6FC2ECE23061F16",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_26_shared_00.tre",
+        "name":  "patch_26_shared_00.tre",
+        "size":  6975420
+    },
+    {
+        "md5":  "51C020222DB22B34C89E7CB83BF4DC95",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_27_client_00.tre",
+        "name":  "patch_27_client_00.tre",
+        "size":  100752161
+    },
+    {
+        "md5":  "C913187F11FE3E761EBA108F4A623C0B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_27_client_01.tre",
+        "name":  "patch_27_client_01.tre",
+        "size":  103031176
+    },
+    {
+        "md5":  "40E7415021BA191060BDCC68B2D8DE24",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_27_client_02.tre",
+        "name":  "patch_27_client_02.tre",
+        "size":  44477448
+    },
+    {
+        "md5":  "7CB79E6F79C532B90F5D1DE2B706AD70",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_27_shared_00.tre",
+        "name":  "patch_27_shared_00.tre",
+        "size":  8387319
+    },
+    {
+        "md5":  "53590352E0FCD6451970FE24F4807698",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_28_client_00.tre",
+        "name":  "patch_28_client_00.tre",
+        "size":  11343429
+    },
+    {
+        "md5":  "F4CB7695D7F6FFFA54E0E1ED0D484F12",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_28_shared_00.tre",
+        "name":  "patch_28_shared_00.tre",
+        "size":  4640503
+    },
+    {
+        "md5":  "3D8D65E8EB1D41BDFC453A76553B3455",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_29_client_00.tre",
+        "name":  "patch_29_client_00.tre",
+        "size":  11434564
+    },
+    {
+        "md5":  "05FF765AB961B5381D5A03C629758222",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_29_shared_00.tre",
+        "name":  "patch_29_shared_00.tre",
+        "size":  3505735
+    },
+    {
+        "md5":  "E1CF81F6F18F9196A51270657AEDF85C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_30_client_00.tre",
+        "name":  "patch_30_client_00.tre",
+        "size":  44402226
+    },
+    {
+        "md5":  "A188A8CD1108551E00CA8A423976BB23",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_30_shared_00.tre",
+        "name":  "patch_30_shared_00.tre",
+        "size":  4685346
+    },
+    {
+        "md5":  "376D7FD30C0AE2BCBCB56F7E06252706",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_31_client_00.tre",
+        "name":  "patch_31_client_00.tre",
+        "size":  51557904
+    },
+    {
+        "md5":  "93E3EB63B4835A5DD43759874B21AE51",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_31_shared_00.tre",
+        "name":  "patch_31_shared_00.tre",
+        "size":  7610352
+    },
+    {
+        "md5":  "D04D3EFD650855FEB739F7D189EDBDD7",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_32_client_00.tre",
+        "name":  "patch_32_client_00.tre",
+        "size":  28101523
+    },
+    {
+        "md5":  "6786549ECECB717A16AB37AC84237010",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_32_shared_00.tre",
+        "name":  "patch_32_shared_00.tre",
+        "size":  10199816
+    },
+    {
+        "md5":  "FA1F9036F3992ED5EABDA929348F9227",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_33_client_00.tre",
+        "name":  "patch_33_client_00.tre",
+        "size":  35393665
+    },
+    {
+        "md5":  "48E1CD0132B5EFD8D27258D1834271FF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_33_shared_00.tre",
+        "name":  "patch_33_shared_00.tre",
+        "size":  5232221
+    },
+    {
+        "md5":  "66440CD9E354633AD9F21EF223E2E2B0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_34_client_00.tre",
+        "name":  "patch_34_client_00.tre",
+        "size":  19781801
+    },
+    {
+        "md5":  "16E18B31E8FB9AFD098B03F34150C994",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_34_shared_00.tre",
+        "name":  "patch_34_shared_00.tre",
+        "size":  4379777
+    },
+    {
+        "md5":  "3B433B26009F94780DFE447821CCC499",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_35_client_00.tre",
+        "name":  "patch_35_client_00.tre",
+        "size":  46959358
+    },
+    {
+        "md5":  "EAC0735F8B7FA45B3FE0707F8BF6C162",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_35_shared_00.tre",
+        "name":  "patch_35_shared_00.tre",
+        "size":  1870846
+    },
+    {
+        "md5":  "B0C1BFAE8C93A231D061841424C2A3ED",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_36_client_00.tre",
+        "name":  "patch_36_client_00.tre",
+        "size":  51250589
+    },
+    {
+        "md5":  "25EFA1E9145A4777DEAF589C5B28D9AD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_36_shared_00.tre",
+        "name":  "patch_36_shared_00.tre",
+        "size":  6382378
+    },
+    {
+        "md5":  "25AC18B7C90D403C06FF4FD7C7AA371B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_37_client_00.tre",
+        "name":  "patch_37_client_00.tre",
+        "size":  57783672
+    },
+    {
+        "md5":  "100A16C011251F6CA287B26EB7027E46",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_37_shared_00.tre",
+        "name":  "patch_37_shared_00.tre",
+        "size":  8483974
+    },
+    {
+        "md5":  "B3BB2505D53B48EA389C6DF96C04A0BE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_38_client_00.tre",
+        "name":  "patch_38_client_00.tre",
+        "size":  30291936
+    },
+    {
+        "md5":  "96794690EB177E2C25D65D275F524772",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_38_shared_00.tre",
+        "name":  "patch_38_shared_00.tre",
+        "size":  1109617
+    },
+    {
+        "md5":  "52C966F06A5A005E5139C398567D7835",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_39_client_00.tre",
+        "name":  "patch_39_client_00.tre",
+        "size":  16166126
+    },
+    {
+        "md5":  "A89ECF135048BF8CBB6C57483650FFF0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_39_shared_00.tre",
+        "name":  "patch_39_shared_00.tre",
+        "size":  2703260
+    },
+    {
+        "md5":  "049BB5B79375DFFF3CD811CDACF2068D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_40_client_00.tre",
+        "name":  "patch_40_client_00.tre",
+        "size":  26334771
+    },
+    {
+        "md5":  "80C934006B32DCF3BB05D88022087ED6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_40_shared_00.tre",
+        "name":  "patch_40_shared_00.tre",
+        "size":  5725838
+    },
+    {
+        "md5":  "3EF05C03E7124B6F2F7F5D0197759D52",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_41_client_00.tre",
+        "name":  "patch_41_client_00.tre",
+        "size":  48573112
+    },
+    {
+        "md5":  "AA0D0F5F7D1DBB3921EDAFF0274831A1",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_41_shared_00.tre",
+        "name":  "patch_41_shared_00.tre",
+        "size":  4151298
+    },
+    {
+        "md5":  "5A2452D17697D70B32896B246CD1BF22",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_42_client_00.tre",
+        "name":  "patch_42_client_00.tre",
+        "size":  76212316
+    },
+    {
+        "md5":  "7F29FBC9316141F89FFB55401C4529DE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_42_shared_00.tre",
+        "name":  "patch_42_shared_00.tre",
+        "size":  2264953
+    },
+    {
+        "md5":  "8413A322FBA2A17B2AC671AD9F00D238",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_43_client_00.tre",
+        "name":  "patch_43_client_00.tre",
+        "size":  87939658
+    },
+    {
+        "md5":  "13E0C81F5B5CE8DF2E08ECD18ED76D3B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_43_shared_00.tre",
+        "name":  "patch_43_shared_00.tre",
+        "size":  2690617
+    },
+    {
+        "md5":  "5E4A5B4034352E8588D60DB6B068B6A7",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_44_client_00.tre",
+        "name":  "patch_44_client_00.tre",
+        "size":  65578564
+    },
+    {
+        "md5":  "8181816CF1AAA0D5AAA2FECA6A56B263",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_44_shared_00.tre",
+        "name":  "patch_44_shared_00.tre",
+        "size":  6653731
+    },
+    {
+        "md5":  "7CE4D875DBF0E4523E21BD1A5EF1C3E0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_45_client_00.tre",
+        "name":  "patch_45_client_00.tre",
+        "size":  36904478
+    },
+    {
+        "md5":  "FCBEBD317C137AC70178A77B316C37A3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_45_shared_00.tre",
+        "name":  "patch_45_shared_00.tre",
+        "size":  6185535
+    },
+    {
+        "md5":  "A9BED9BFBF845F2E4EDE0F7440391948",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_46_client_00.tre",
+        "name":  "patch_46_client_00.tre",
+        "size":  56756989
+    },
+    {
+        "md5":  "87374A908D9676DA9A66E3A19D4D1FFD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_46_shared_00.tre",
+        "name":  "patch_46_shared_00.tre",
+        "size":  2428940
+    },
+    {
+        "md5":  "A6FBA8A121E7730C6E9D704FC372033B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_47_client_00.tre",
+        "name":  "patch_47_client_00.tre",
+        "size":  38869369
+    },
+    {
+        "md5":  "509578540F32D19A1FA5FDD097A2532C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_47_shared_00.tre",
+        "name":  "patch_47_shared_00.tre",
+        "size":  3654729
+    },
+    {
+        "md5":  "CB661EFA35A6AD28203FA5C3B4896F98",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_48_client_00.tre",
+        "name":  "patch_48_client_00.tre",
+        "size":  104711319
+    },
+    {
+        "md5":  "D390EF9DA79097B89B9CABC555B26959",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_48_client_01.tre",
+        "name":  "patch_48_client_01.tre",
+        "size":  104791987
+    },
+    {
+        "md5":  "576DB1BC8BE802A9509EA268852DE860",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_48_client_02.tre",
+        "name":  "patch_48_client_02.tre",
+        "size":  12245097
+    },
+    {
+        "md5":  "685EA2B935FF5DE0E9C176A35CA5EB6F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_48_shared_00.tre",
+        "name":  "patch_48_shared_00.tre",
+        "size":  1744197
+    },
+    {
+        "md5":  "EEE5E3E5E4F2F40659F07A9F872A0D1A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_49_client_00.tre",
+        "name":  "patch_49_client_00.tre",
+        "size":  24412493
+    },
+    {
+        "md5":  "4E3D1156C2A1A09B87EA89375632BC27",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_49_shared_00.tre",
+        "name":  "patch_49_shared_00.tre",
+        "size":  3046000
+    },
+    {
+        "md5":  "8E7B6E9A74EBD9C7AF94F9C27F739B6E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_50_client_00.tre",
+        "name":  "patch_50_client_00.tre",
+        "size":  65695909
+    },
+    {
+        "md5":  "23F2C59F4BC96F48B2BCF3ED3FF25F28",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_50_shared_00.tre",
+        "name":  "patch_50_shared_00.tre",
+        "size":  4092395
+    },
+    {
+        "md5":  "0325CBBE09EE760CC76AE4F52FBE4E09",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_51_client_00.tre",
+        "name":  "patch_51_client_00.tre",
+        "size":  36219712
+    },
+    {
+        "md5":  "093D1B1E8D8E72B75574BEAEA7E445FF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_51_shared_00.tre",
+        "name":  "patch_51_shared_00.tre",
+        "size":  4603494
+    },
+    {
+        "md5":  "609C66F72973680E4913479ACE15CB31",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_52_client_00.tre",
+        "name":  "patch_52_client_00.tre",
+        "size":  44097205
+    },
+    {
+        "md5":  "7561EF2A834F9AE4235D513AADD3E1B0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_52_shared_00.tre",
+        "name":  "patch_52_shared_00.tre",
+        "size":  4877235
+    },
+    {
+        "md5":  "B2601AEB8759373F0B61EFF12C9D9C13",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_53_client_00.tre",
+        "name":  "patch_53_client_00.tre",
+        "size":  46551154
+    },
+    {
+        "md5":  "22CE7FDEC89EC7BDAEFC88C41D003D4F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_53_shared_00.tre",
+        "name":  "patch_53_shared_00.tre",
+        "size":  3422695
+    },
+    {
+        "md5":  "672C4A24CD7A4568EBEF92911756245A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_54_client_00.tre",
+        "name":  "patch_54_client_00.tre",
+        "size":  24619838
+    },
+    {
+        "md5":  "1E2AF36CE1CF91288C810825A1556D7C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_54_shared_00.tre",
+        "name":  "patch_54_shared_00.tre",
+        "size":  2765126
+    },
+    {
+        "md5":  "7277590F7412A5E54DD0E82C02EA6353",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_55_client_00.tre",
+        "name":  "patch_55_client_00.tre",
+        "size":  88263162
+    },
+    {
+        "md5":  "6F4D2CD3402804A8E3F79BC7C52C39A6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_55_shared_00.tre",
+        "name":  "patch_55_shared_00.tre",
+        "size":  3417375
+    },
+    {
+        "md5":  "031F0D59AA85D848C3FD46A983CA6BA5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_56_client_00.tre",
+        "name":  "patch_56_client_00.tre",
+        "size":  78228631
+    },
+    {
+        "md5":  "B46E971847CDF66D7D99050B4F081F82",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_56_shared_00.tre",
+        "name":  "patch_56_shared_00.tre",
+        "size":  8027466
+    },
+    {
+        "md5":  "A282AF9C4F280096B1DD784C20A1AA9A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_57_client_00.tre",
+        "name":  "patch_57_client_00.tre",
+        "size":  12831519
+    },
+    {
+        "md5":  "F1F083AA31805D1C0C7FBA9C951AAAAD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_57_shared_00.tre",
+        "name":  "patch_57_shared_00.tre",
+        "size":  6883740
+    },
+    {
+        "md5":  "06E488F7DD38B719CD9316682BB46DB9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_58_client_00.tre",
+        "name":  "patch_58_client_00.tre",
+        "size":  6076008
+    },
+    {
+        "md5":  "1981A670F67B815E05ECB68E960A8112",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_58_shared_00.tre",
+        "name":  "patch_58_shared_00.tre",
+        "size":  2508646
+    },
+    {
+        "md5":  "74B60AF869237A07FA18DC65F80E7ED2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_12_00.tre",
+        "name":  "patch_sku1_12_00.tre",
+        "size":  6257317
+    },
+    {
+        "md5":  "0792DAC181188AFED8776A742B64BCDE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_13_00.tre",
+        "name":  "patch_sku1_13_00.tre",
+        "size":  21315
+    },
+    {
+        "md5":  "3170521A8E7E0547E9117BC092CBD021",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_14_00.tre",
+        "name":  "patch_sku1_14_00.tre",
+        "size":  944
+    },
+    {
+        "md5":  "3FEFF64F5FEFBF06BD34956BE3A7DB1D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_15_00.tre",
+        "name":  "patch_sku1_15_00.tre",
+        "size":  76279094
+    },
+    {
+        "md5":  "E11F4246F4319ED1F3A57F19832EE8CB",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_16_00.tre",
+        "name":  "patch_sku1_16_00.tre",
+        "size":  1556636
+    },
+    {
+        "md5":  "D2FA5AF5931E87507FD8076D2EBBB8E0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_17_00.tre",
+        "name":  "patch_sku1_17_00.tre",
+        "size":  9039
+    },
+    {
+        "md5":  "D0C21F55AC28AA17A896559E83D83DEC",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_18_client_00.tre",
+        "name":  "patch_sku1_18_client_00.tre",
+        "size":  541
+    },
+    {
+        "md5":  "1BA42C19AF58FFB03E19539B2C08662B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_19_client_00.tre",
+        "name":  "patch_sku1_19_client_00.tre",
+        "size":  2709431
+    },
+    {
+        "md5":  "C66B0D936DCB06A205B9BC72F0D20933",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_19_shared_00.tre",
+        "name":  "patch_sku1_19_shared_00.tre",
+        "size":  4068
+    },
+    {
+        "md5":  "32C97EBF74C857237E460D8F2B6ABFEF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_23_client_00.tre",
+        "name":  "patch_sku1_23_client_00.tre",
+        "size":  126621
+    },
+    {
+        "md5":  "07B0C4C301C85573BB0B6654DC73C223",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_24_client_00.tre",
+        "name":  "patch_sku1_24_client_00.tre",
+        "size":  47663807
+    },
+    {
+        "md5":  "E26979993F0D868B68C674AC50D10BEE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_24_shared_00.tre",
+        "name":  "patch_sku1_24_shared_00.tre",
+        "size":  169285
+    },
+    {
+        "md5":  "B1D62F7DB23FFEF4D263F353D5A6CA9D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_26_client_00.tre",
+        "name":  "patch_sku1_26_client_00.tre",
+        "size":  2995122
+    },
+    {
+        "md5":  "94D78DB29F83757790ADC7364227EE45",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_28_client_00.tre",
+        "name":  "patch_sku1_28_client_00.tre",
+        "size":  6436786
+    },
+    {
+        "md5":  "25E9EC9DE6FE0A0B081A805D35C62FDD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_28_shared_00.tre",
+        "name":  "patch_sku1_28_shared_00.tre",
+        "size":  52753
+    },
+    {
+        "md5":  "DD903A9CFAED0FBCD7AA4168BAEF11A1",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_29_client_00.tre",
+        "name":  "patch_sku1_29_client_00.tre",
+        "size":  1715227
+    },
+    {
+        "md5":  "60AF3B383EB3E9E915B6C31EEF6AF338",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_31_client_00.tre",
+        "name":  "patch_sku1_31_client_00.tre",
+        "size":  7515592
+    },
+    {
+        "md5":  "2CD715F358AA77EECCAB1F644289FBC4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_32_client_00.tre",
+        "name":  "patch_sku1_32_client_00.tre",
+        "size":  467
+    },
+    {
+        "md5":  "DB121E8EB7BB6D380763B953CF0042F9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_33_client_00.tre",
+        "name":  "patch_sku1_33_client_00.tre",
+        "size":  531594
+    },
+    {
+        "md5":  "45C5DF4DC631EEE24C37BF06B8134AE9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_34_client_00.tre",
+        "name":  "patch_sku1_34_client_00.tre",
+        "size":  254827
+    },
+    {
+        "md5":  "C09AE555C1B8BE0F7775119F434933A9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_37_client_00.tre",
+        "name":  "patch_sku1_37_client_00.tre",
+        "size":  16096956
+    },
+    {
+        "md5":  "582F440ABC24840543CB088F74FD65C5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_37_shared_00.tre",
+        "name":  "patch_sku1_37_shared_00.tre",
+        "size":  371332
+    },
+    {
+        "md5":  "B0F00995E19EFF6031BFF89621A2521D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_39_client_00.tre",
+        "name":  "patch_sku1_39_client_00.tre",
+        "size":  25960582
+    },
+    {
+        "md5":  "C8FA1BBE8538A5768F2D55AF00A5027C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_39_shared_00.tre",
+        "name":  "patch_sku1_39_shared_00.tre",
+        "size":  385801
+    },
+    {
+        "md5":  "9730DD0D2BF8EA4216E5913670C57501",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_40_client_00.tre",
+        "name":  "patch_sku1_40_client_00.tre",
+        "size":  5502310
+    },
+    {
+        "md5":  "83F2C92FCC3E8F94EF5B3934A8F7F058",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_40_shared_00.tre",
+        "name":  "patch_sku1_40_shared_00.tre",
+        "size":  36626
+    },
+    {
+        "md5":  "0CDDACA5589B05141C662F201DC2B43D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_41_client_00.tre",
+        "name":  "patch_sku1_41_client_00.tre",
+        "size":  410308
+    },
+    {
+        "md5":  "DBE933214938B9766A88776C71E4A5AD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_42_client_00.tre",
+        "name":  "patch_sku1_42_client_00.tre",
+        "size":  1443826
+    },
+    {
+        "md5":  "CB8382165F13AB108D39D786EAA3C1BB",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_44_client_00.tre",
+        "name":  "patch_sku1_44_client_00.tre",
+        "size":  175153
+    },
+    {
+        "md5":  "86973FE90101C634BB6F63F069C410B3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_45_client_00.tre",
+        "name":  "patch_sku1_45_client_00.tre",
+        "size":  725601
+    },
+    {
+        "md5":  "F6E8D826696F482FF5DA2121687E9E4B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_53_client_00.tre",
+        "name":  "patch_sku1_53_client_00.tre",
+        "size":  63152
+    },
+    {
+        "md5":  "08D6A0322226FAB42468E4AD02DCFCF6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_54_client_00.tre",
+        "name":  "patch_sku1_54_client_00.tre",
+        "size":  509534
+    },
+    {
+        "md5":  "5F8660E3156A674640F6A09190F0B8D9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_55_client_00.tre",
+        "name":  "patch_sku1_55_client_00.tre",
+        "size":  1661949
+    },
+    {
+        "md5":  "F10599DA4BCBF4B9B52B5D90A697ED12",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_57_client_00.tre",
+        "name":  "patch_sku1_57_client_00.tre",
+        "size":  761
+    },
+    {
+        "md5":  "5E3D73A97C5F907717DA4C429ACE98DA",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku1_58_client_00.tre",
+        "name":  "patch_sku1_58_client_00.tre",
+        "size":  6565586
+    },
+    {
+        "md5":  "8588FAE6A671CBA45A8B53CB2F5A8570",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_15_00.tre",
+        "name":  "patch_sku2_15_00.tre",
+        "size":  104549627
+    },
+    {
+        "md5":  "9F8EEF9B5BB0EBD8A365F792D1E362BB",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_15_01.tre",
+        "name":  "patch_sku2_15_01.tre",
+        "size":  5923977
+    },
+    {
+        "md5":  "C5E9C01F6DA71C077A517781D478E368",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_16_00.tre",
+        "name":  "patch_sku2_16_00.tre",
+        "size":  9780580
+    },
+    {
+        "md5":  "4B4C06FC9E1543133E7FC9FB5ECB5F06",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_17_00.tre",
+        "name":  "patch_sku2_17_00.tre",
+        "size":  14599395
+    },
+    {
+        "md5":  "4C845858FF981CFC56899209E7EC82D6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_23_client_00.tre",
+        "name":  "patch_sku2_23_client_00.tre",
+        "size":  608309
+    },
+    {
+        "md5":  "5B44D588F4314F98EBF8332208B2E061",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_24_client_00.tre",
+        "name":  "patch_sku2_24_client_00.tre",
+        "size":  7707799
+    },
+    {
+        "md5":  "352600CD52C7B72440F092E90724CA9B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_24_shared_00.tre",
+        "name":  "patch_sku2_24_shared_00.tre",
+        "size":  28330
+    },
+    {
+        "md5":  "076D9E00E6554077BDEA244BE61F6E40",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_26_client_00.tre",
+        "name":  "patch_sku2_26_client_00.tre",
+        "size":  744054
+    },
+    {
+        "md5":  "807FB67C8C942FB1EB986058684BD217",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_33_client_00.tre",
+        "name":  "patch_sku2_33_client_00.tre",
+        "size":  1539568
+    },
+    {
+        "md5":  "14FD204382F46813F571D93F2CEB3B6D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_33_shared_00.tre",
+        "name":  "patch_sku2_33_shared_00.tre",
+        "size":  37675
+    },
+    {
+        "md5":  "1832EF1557A5D97C897DBA6F5208778A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_34_client_00.tre",
+        "name":  "patch_sku2_34_client_00.tre",
+        "size":  441077
+    },
+    {
+        "md5":  "B3FAB7FBE616A109934393D921B07E4B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_34_shared_00.tre",
+        "name":  "patch_sku2_34_shared_00.tre",
+        "size":  2384
+    },
+    {
+        "md5":  "A25F2DC6C79D4D78B356F5C2A25E71EA",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_44_client_00.tre",
+        "name":  "patch_sku2_44_client_00.tre",
+        "size":  1166534
+    },
+    {
+        "md5":  "5E5AE631E8955B4B523C063C89E9B5D8",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_44_shared_00.tre",
+        "name":  "patch_sku2_44_shared_00.tre",
+        "size":  1585
+    },
+    {
+        "md5":  "8C2B6DB474CB0BB110C4407A52F617FB",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku2_56_client_00.tre",
+        "name":  "patch_sku2_56_client_00.tre",
+        "size":  161346
+    },
+    {
+        "md5":  "D2BC35DA522D47B65DF2C7D53B451420",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku3_24_client_00.tre",
+        "name":  "patch_sku3_24_client_00.tre",
+        "size":  61793805
+    },
+    {
+        "md5":  "F44629C30CFF87105254BA977E2383EC",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku3_24_shared_00.tre",
+        "name":  "patch_sku3_24_shared_00.tre",
+        "size":  841719
+    },
+    {
+        "md5":  "555F8C426477A5EC71251C2FF82054BA",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku3_25_client_00.tre",
+        "name":  "patch_sku3_25_client_00.tre",
+        "size":  10595540
+    },
+    {
+        "md5":  "CDC733F065BCD02C639AD4D07FCF5CA1",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku3_25_shared_00.tre",
+        "name":  "patch_sku3_25_shared_00.tre",
+        "size":  178943
+    },
+    {
+        "md5":  "F7F15F0E0C8F9E64CEF38635E54E6549",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku3_27_client_00.tre",
+        "name":  "patch_sku3_27_client_00.tre",
+        "size":  8417813
+    },
+    {
+        "md5":  "501290CFA98ABB9265D3E60B7F4465F3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku3_27_shared_00.tre",
+        "name":  "patch_sku3_27_shared_00.tre",
+        "size":  36626
+    },
+    {
+        "md5":  "377B4D2281EA3CC0F17CE98A53E7F9E5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku3_33_client_00.tre",
+        "name":  "patch_sku3_33_client_00.tre",
+        "size":  8818711
+    },
+    {
+        "md5":  "B1236FF5C9B3E5DF571D07E69F8958B3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/patch_sku3_33_shared_00.tre",
+        "name":  "patch_sku3_33_shared_00.tre",
+        "size":  202764
+    },
+    {
+        "md5":  "369F92FAD7DB3ED4D2070631EBB0CAA8",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/plc4.dll",
+        "name":  "plc4.dll",
+        "size":  13312
+    },
+    {
+        "md5":  "34A1F355A763DC1A4BCF9BF297A302E2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/plds4.dll",
+        "name":  "plds4.dll",
+        "size":  9216
+    },
+    {
+        "md5":  "0AFEDDC346EDFB136BF55315F002F45A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/preload.cfg",
+        "name":  "preload.cfg",
+        "size":  2018
+    },
+    {
+        "md5":  "4ACAAA87F1CBB840E266B2360C6E1FE0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/qt-mt305.dll",
+        "name":  "qt-mt305.dll",
+        "size":  3563520
+    },
+    {
+        "md5":  "437D715EE641107FA91C59F0AE056416",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/qt-mt334.dll",
+        "name":  "qt-mt334.dll",
+        "size":  3985408
+    },
+    {
+        "md5":  "E3AB8A7D21679D3713C4B8DAE0A4FC4C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/README.md",
+        "name":  "README.md",
+        "size":  742
+    },
+    {
+        "md5":  "1779D7FAE5A3F7923F11B6FA1B21AEBA",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/sku0_client.toc",
+        "name":  "sku0_client.toc",
+        "size":  13888528
+    },
+    {
+        "md5":  "0B486669BB6CB6E7551AF55B28CE86F9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/sku1_client.toc",
+        "name":  "sku1_client.toc",
+        "size":  947044
+    },
+    {
+        "md5":  "0CE5E1A7ED70FF84A64286F16A584595",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/sku2_client.toc",
+        "name":  "sku2_client.toc",
+        "size":  210833
+    },
+    {
+        "md5":  "37E1D682F66A6CD8E7C64CD8005C845D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/sku3_client.toc",
+        "name":  "sku3_client.toc",
+        "size":  87143
+    },
+    {
+        "md5":  "D11EFCD3AE40E5DBF11C76F6D1E803EF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/smime3.dll",
+        "name":  "smime3.dll",
+        "size":  110592
+    },
+    {
+        "md5":  "CF2E33FAE19F1C3674B480301F42CF8D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/softokn3.dll",
+        "name":  "softokn3.dll",
+        "size":  376832
+    },
+    {
+        "md5":  "9E18DEF19831DB9E3332D41A1FD94978",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ssl3.dll",
+        "name":  "ssl3.dll",
+        "size":  118784
+    },
+    {
+        "md5":  "31D6502A4D9CFF4AA73223C547653230",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/SwgClientSetup_r.exe",
+        "name":  "SwgClientSetup_r.exe",
+        "size":  487936
+    },
+    {
+        "md5":  "739D628416A3EDDB0DBED9C022B1A6F9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/SwgClient_r.exe",
+        "name":  "SwgClient_r.exe",
+        "size":  29016064
+    },
+    {
+        "md5":  "019C0A940D9A5E78FBAF1157DE0BF192",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/swgsource_3.0.tre",
+        "name":  "swgsource_3.0.tre",
+        "size":  35058020
+    },
+    {
+        "md5":  "1F2862EC85A8F52C56BFD9A84496F194",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/ui.log",
+        "name":  "ui.log",
+        "size":  11522
+    },
+    {
+        "md5":  "D80C93AF261260ACD6D12BDEB9410B4A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/unicows.dll",
+        "name":  "unicows.dll",
+        "size":  218112
+    },
+    {
+        "md5":  "DF7B9D7EF6FC027BE39B49D93867558D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/UpdateSwgClient.bat",
+        "name":  "UpdateSwgClient.bat",
+        "size":  378
+    },
+    {
+        "md5":  "C05035953FA4D9220946D68EC46CD247",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/user.cfg",
+        "name":  "user.cfg",
+        "size":  1389
+    },
+    {
+        "md5":  "823407463EE49559CA6D1CE260292003",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/version.txt",
+        "name":  "version.txt",
+        "size":  7
+    },
+    {
+        "md5":  "EFDE74276C1B04837E8CF66101F5E31B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/vivoxplatform.dll",
+        "name":  "vivoxplatform.dll",
+        "size":  1130496
+    },
+    {
+        "md5":  "136079860401CA784D56B69DAB24AA95",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/vivoxsdk.dll",
+        "name":  "vivoxsdk.dll",
+        "size":  4947968
+    },
+    {
+        "md5":  "EE5E462CDAB963E11960683298D1C7A8",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/wrap_oal.dll",
+        "name":  "wrap_oal.dll",
+        "size":  413696
+    },
+    {
+        "md5":  "4338EC1F6BABE553BF4337A2368D9C7F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/xpcom.dll",
+        "name":  "xpcom.dll",
+        "size":  7680
+    },
+    {
+        "md5":  "B9C165D9BEEB7F7498E9D6083384579A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/xul.dll",
+        "name":  "xul.dll",
+        "size":  6459392
+    },
+    {
+        "md5":  "80E41408F6D641DC1C0F5353A0CC8125",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/zlib1.dll",
+        "name":  "zlib1.dll",
+        "size":  59904
+    },
+    {
+        "md5":  "22DBC18133874FC864A9FFAA15F32E0B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/AudioCapture.flt",
+        "name":  "miles/AudioCapture.flt",
+        "size":  65536
+    },
+    {
+        "md5":  "4D4355604E867AE159A860F0F9399D04",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/mssdolby.flt",
+        "name":  "miles/mssdolby.flt",
+        "size":  7680
+    },
+    {
+        "md5":  "1EE6E86595A0214C27B0DB407CAC7A12",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/mssds3d.flt",
+        "name":  "miles/mssds3d.flt",
+        "size":  12800
+    },
+    {
+        "md5":  "C9F5FE6D962DBF48F94FBDAF4B9C74E2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/mssdsp.flt",
+        "name":  "miles/mssdsp.flt",
+        "size":  56832
+    },
+    {
+        "md5":  "FF4967B8A0E96587EDBA45DB1A05053D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/msseax.flt",
+        "name":  "miles/msseax.flt",
+        "size":  59392
+    },
+    {
+        "md5":  "02C529E4EFF8921DBA70F50A64D878EF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/Msseax.m3d",
+        "name":  "miles/Msseax.m3d",
+        "size":  143872
+    },
+    {
+        "md5":  "E63B4AF8E1EDF2DE1A24E448ADA829A8",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/mssmp3.asi",
+        "name":  "miles/mssmp3.asi",
+        "size":  94208
+    },
+    {
+        "md5":  "4B44DEA68892185E4E621D46A68B6606",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/mssogg.asi",
+        "name":  "miles/mssogg.asi",
+        "size":  99840
+    },
+    {
+        "md5":  "D50BF90384BACE3AEEB0B60409760991",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/msssoft.m3d",
+        "name":  "miles/msssoft.m3d",
+        "size":  79360
+    },
+    {
+        "md5":  "A40D54A9A4E94924B2536277237FD3E6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/msssrs.flt",
+        "name":  "miles/msssrs.flt",
+        "size":  12800
+    },
+    {
+        "md5":  "E49464BE67B500CEA4ED3DAC79CA8F43",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/miles/mssvoice.asi",
+        "name":  "miles/mssvoice.asi",
+        "size":  153600
+    },
+    {
+        "md5":  "A5AE49867124AC75F029A9A33AF31BAD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/cert8.db",
+        "name":  "mozilla/cert8.db",
+        "size":  65536
+    },
+    {
+        "md5":  "9FF6D2F3863953B0EE2F1929C1C13EB0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/history.dat",
+        "name":  "mozilla/history.dat",
+        "size":  1022
+    },
+    {
+        "md5":  "9973555D412F0E2B7E81E014000E7183",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/key3.db",
+        "name":  "mozilla/key3.db",
+        "size":  16384
+    },
+    {
+        "md5":  "DE6A07617DF47390CA90AD6D4FA99A6C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/prefs.js",
+        "name":  "mozilla/prefs.js",
+        "size":  367
+    },
+    {
+        "md5":  "9E500F8F4211F4599DA63F06120FC437",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/secmod.db",
+        "name":  "mozilla/secmod.db",
+        "size":  16384
+    },
+    {
+        "md5":  "C79BC2AD13647B1FBCE8BA8D8376F2BF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/chromelist.txt",
+        "name":  "mozilla/chrome/chromelist.txt",
+        "size":  80458
+    },
+    {
+        "md5":  "8F9FC8A1E1E2C26D0C328B1236AC61D4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/classic.jar",
+        "name":  "mozilla/chrome/classic.jar",
+        "size":  285793
+    },
+    {
+        "md5":  "C0E812B07AAE160AB8357FF1B7102EAA",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/classic.manifest",
+        "name":  "mozilla/chrome/classic.manifest",
+        "size":  262
+    },
+    {
+        "md5":  "D27D26C3F6B98B0BAD893DDD6A405692",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/comm.jar",
+        "name":  "mozilla/chrome/comm.jar",
+        "size":  31967
+    },
+    {
+        "md5":  "DB543A306785A48CD3218FCB26622023",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/comm.manifest",
+        "name":  "mozilla/chrome/comm.manifest",
+        "size":  146
+    },
+    {
+        "md5":  "B785563A509B83C4611142DE90A38B91",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/en-US.jar",
+        "name":  "mozilla/chrome/en-US.jar",
+        "size":  287648
+    },
+    {
+        "md5":  "BB4EF3A88D1E8CFC1D77624228D40D39",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/en-US.manifest",
+        "name":  "mozilla/chrome/en-US.manifest",
+        "size":  673
+    },
+    {
+        "md5":  "CC9C6294CF9C1B51F888E64868985A44",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/pippki.jar",
+        "name":  "mozilla/chrome/pippki.jar",
+        "size":  325328
+    },
+    {
+        "md5":  "C42C826ED5477FD16C03D66A654C1ACC",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/pippki.manifest",
+        "name":  "mozilla/chrome/pippki.manifest",
+        "size":  70
+    },
+    {
+        "md5":  "776EC97034D8E9B91068AFD3E51E81FD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/toolkit.jar",
+        "name":  "mozilla/chrome/toolkit.jar",
+        "size":  1664190
+    },
+    {
+        "md5":  "D50956B6C453E641B8817DD0A057191E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/chrome/toolkit.manifest",
+        "name":  "mozilla/chrome/toolkit.manifest",
+        "size":  475
+    },
+    {
+        "md5":  "42D794ADCB5A12CCB796425CE314F861",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/alerts.xpt",
+        "name":  "mozilla/components/alerts.xpt",
+        "size":  209
+    },
+    {
+        "md5":  "AB97F020555B47D9091D69211542A2EB",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/appshell.xpt",
+        "name":  "mozilla/components/appshell.xpt",
+        "size":  2434
+    },
+    {
+        "md5":  "7DD40CA7B70724C6B0FBC67CCC9AD832",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/appstartup.xpt",
+        "name":  "mozilla/components/appstartup.xpt",
+        "size":  590
+    },
+    {
+        "md5":  "A4FCB7F3284E88D59F00AE2B3CF1C47A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/auth.dll",
+        "name":  "mozilla/components/auth.dll",
+        "size":  14848
+    },
+    {
+        "md5":  "4991A5C8D628F58F5B0A8E51EDDA378F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/autocomplete.xpt",
+        "name":  "mozilla/components/autocomplete.xpt",
+        "size":  3110
+    },
+    {
+        "md5":  "D097EEAF6BF66E5E7C7543911E222C44",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/autoconfig.dll",
+        "name":  "mozilla/components/autoconfig.dll",
+        "size":  19456
+    },
+    {
+        "md5":  "72769A709396DED7D427EC6980DA32A0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/autoconfig.xpt",
+        "name":  "mozilla/components/autoconfig.xpt",
+        "size":  334
+    },
+    {
+        "md5":  "C103C2B87B0E49BB0222164782CA94F5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/caps.xpt",
+        "name":  "mozilla/components/caps.xpt",
+        "size":  2555
+    },
+    {
+        "md5":  "85596EC23E2E8D047E05B0202059CDDC",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/chardet.xpt",
+        "name":  "mozilla/components/chardet.xpt",
+        "size":  679
+    },
+    {
+        "md5":  "58A54C11392169799D48E7E083ABD431",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/chrome.xpt",
+        "name":  "mozilla/components/chrome.xpt",
+        "size":  344
+    },
+    {
+        "md5":  "BB31D81FCBC4DAF6677DDCA1376A44D5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/commandhandler.xpt",
+        "name":  "mozilla/components/commandhandler.xpt",
+        "size":  1789
+    },
+    {
+        "md5":  "EC7BF9C54532CB9CE29139FC651B78E2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/commandlines.xpt",
+        "name":  "mozilla/components/commandlines.xpt",
+        "size":  880
+    },
+    {
+        "md5":  "D3D4BC172DA971D326A40804A5706A80",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/composer.xpt",
+        "name":  "mozilla/components/composer.xpt",
+        "size":  673
+    },
+    {
+        "md5":  "D011F0E222E59AD441A02715D5EB3FBC",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/compreg.dat",
+        "name":  "mozilla/components/compreg.dat",
+        "size":  125128
+    },
+    {
+        "md5":  "727CD076682481D94F3C23290BA1857B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/content_base.xpt",
+        "name":  "mozilla/components/content_base.xpt",
+        "size":  5705
+    },
+    {
+        "md5":  "EADF95E0DD746CE1163E38EB3C1CE10E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/content_html.xpt",
+        "name":  "mozilla/components/content_html.xpt",
+        "size":  619
+    },
+    {
+        "md5":  "17500418770655133A5E7C93656CF3DE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/content_htmldoc.xpt",
+        "name":  "mozilla/components/content_htmldoc.xpt",
+        "size":  541
+    },
+    {
+        "md5":  "7BA32FED6C5A40188994B96E845A4993",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/content_xmldoc.xpt",
+        "name":  "mozilla/components/content_xmldoc.xpt",
+        "size":  693
+    },
+    {
+        "md5":  "77018149F4E032C4AFF63C335C17FAAE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/content_xslt.xpt",
+        "name":  "mozilla/components/content_xslt.xpt",
+        "size":  766
+    },
+    {
+        "md5":  "1DBE4021E61F4074D3E8A175DB0F0CF8",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/content_xtf.xpt",
+        "name":  "mozilla/components/content_xtf.xpt",
+        "size":  3476
+    },
+    {
+        "md5":  "1C52069C119C48AE9004228A33AD0124",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/directory.xpt",
+        "name":  "mozilla/components/directory.xpt",
+        "size":  373
+    },
+    {
+        "md5":  "4E9458463A5CF619E7E1C0553F8C8DB7",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/docshell_base.xpt",
+        "name":  "mozilla/components/docshell_base.xpt",
+        "size":  9134
+    },
+    {
+        "md5":  "AD69D50C7FD954DE59E90B4F571EEE82",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom.xpt",
+        "name":  "mozilla/components/dom.xpt",
+        "size":  435
+    },
+    {
+        "md5":  "226A2BB9B2AB63BF30F335159D4DC164",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_base.xpt",
+        "name":  "mozilla/components/dom_base.xpt",
+        "size":  8446
+    },
+    {
+        "md5":  "87FC114C5ED804F866FD63E4DC460A6C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_canvas.xpt",
+        "name":  "mozilla/components/dom_canvas.xpt",
+        "size":  1605
+    },
+    {
+        "md5":  "8F24400A1AC9C30BF2112B99166E314E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_core.xpt",
+        "name":  "mozilla/components/dom_core.xpt",
+        "size":  6606
+    },
+    {
+        "md5":  "7FF238D3EAB2F9C0D973F14864D5924F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_css.xpt",
+        "name":  "mozilla/components/dom_css.xpt",
+        "size":  11446
+    },
+    {
+        "md5":  "E2868AB87DED0A67DC4A04F0A0C665B0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_events.xpt",
+        "name":  "mozilla/components/dom_events.xpt",
+        "size":  6296
+    },
+    {
+        "md5":  "406B5E4FD51A31569199A72CCE4C1BA7",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_html.xpt",
+        "name":  "mozilla/components/dom_html.xpt",
+        "size":  17625
+    },
+    {
+        "md5":  "6B8E7ABBA89BC19F72B92F02581AFFA2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_loadsave.xpt",
+        "name":  "mozilla/components/dom_loadsave.xpt",
+        "size":  2621
+    },
+    {
+        "md5":  "0F54E808BEA39C5F542DBC72B646267E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_range.xpt",
+        "name":  "mozilla/components/dom_range.xpt",
+        "size":  1397
+    },
+    {
+        "md5":  "9D36EA104381DEDE26AB1459BEDB63FA",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_stylesheets.xpt",
+        "name":  "mozilla/components/dom_stylesheets.xpt",
+        "size":  818
+    },
+    {
+        "md5":  "DC0C6DCB8BFFC2C74A08D57DDD815CC2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_svg.xpt",
+        "name":  "mozilla/components/dom_svg.xpt",
+        "size":  17441
+    },
+    {
+        "md5":  "5A91BEBE5E413341A9B274232A85098A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_traversal.xpt",
+        "name":  "mozilla/components/dom_traversal.xpt",
+        "size":  1282
+    },
+    {
+        "md5":  "F7F0F182ACC7BD6295BADB8121E1BD8B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_views.xpt",
+        "name":  "mozilla/components/dom_views.xpt",
+        "size":  226
+    },
+    {
+        "md5":  "590EB5F7FEE2B3831DB3BE4D1D9A71DC",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_xbl.xpt",
+        "name":  "mozilla/components/dom_xbl.xpt",
+        "size":  498
+    },
+    {
+        "md5":  "6770E5996D5FC4D635D8AE01C1E7D360",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_xpath.xpt",
+        "name":  "mozilla/components/dom_xpath.xpt",
+        "size":  1417
+    },
+    {
+        "md5":  "557514FE4011A51DF03DB77C85AC3DF9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/dom_xul.xpt",
+        "name":  "mozilla/components/dom_xul.xpt",
+        "size":  6666
+    },
+    {
+        "md5":  "ADF3C030F2444E928BF47DBB30955918",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/downloads.xpt",
+        "name":  "mozilla/components/downloads.xpt",
+        "size":  1774
+    },
+    {
+        "md5":  "C04E89951B1BEA5AAABF6BCEBC1622FF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/editor.xpt",
+        "name":  "mozilla/components/editor.xpt",
+        "size":  11220
+    },
+    {
+        "md5":  "6A0E276E5B9A362B36E781761B4E999D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/embed_base.xpt",
+        "name":  "mozilla/components/embed_base.xpt",
+        "size":  390
+    },
+    {
+        "md5":  "7EE9EB36DD0D7DDEAA922317EEA722A0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/extensions.xpt",
+        "name":  "mozilla/components/extensions.xpt",
+        "size":  2463
+    },
+    {
+        "md5":  "F63F164B4E25BC04C5FE5CA567499627",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/exthandler.xpt",
+        "name":  "mozilla/components/exthandler.xpt",
+        "size":  1455
+    },
+    {
+        "md5":  "13A07F7AC4ACE1C6E4F7DCE6CEF13341",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/fastfind.xpt",
+        "name":  "mozilla/components/fastfind.xpt",
+        "size":  570
+    },
+    {
+        "md5":  "D1B7FF5D762993B4992853627AF72939",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/find.xpt",
+        "name":  "mozilla/components/find.xpt",
+        "size":  1036
+    },
+    {
+        "md5":  "EB12DFDBCFD9A3EB84BFB17E6B82AF82",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/gfx.xpt",
+        "name":  "mozilla/components/gfx.xpt",
+        "size":  7113
+    },
+    {
+        "md5":  "3C1477726192DB57D5B157699F2A07F2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/gksvgrenderer.xpt",
+        "name":  "mozilla/components/gksvgrenderer.xpt",
+        "size":  5461
+    },
+    {
+        "md5":  "0F9E5753B8F85FDA4B04EB7FF2A41298",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/history.xpt",
+        "name":  "mozilla/components/history.xpt",
+        "size":  371
+    },
+    {
+        "md5":  "6FF082AFCF962AE4A466B1CE9A651745",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/htmlparser.xpt",
+        "name":  "mozilla/components/htmlparser.xpt",
+        "size":  416
+    },
+    {
+        "md5":  "8097CB1F217F4050BC437DDD97F33BBC",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/imglib2.xpt",
+        "name":  "mozilla/components/imglib2.xpt",
+        "size":  2396
+    },
+    {
+        "md5":  "29CBE89849233B59BDB14D68A37D39D8",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/intl.xpt",
+        "name":  "mozilla/components/intl.xpt",
+        "size":  645
+    },
+    {
+        "md5":  "C0511EE58A85B9351C941475536BA7A2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/intlcmpt.xpt",
+        "name":  "mozilla/components/intlcmpt.xpt",
+        "size":  159
+    },
+    {
+        "md5":  "924AC11DCCE9586D31E7B16E41C6D5ED",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/jar.xpt",
+        "name":  "mozilla/components/jar.xpt",
+        "size":  1347
+    },
+    {
+        "md5":  "3DACA865433B9746434EF574E6ABA193",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/jsconsole-clhandler.js",
+        "name":  "mozilla/components/jsconsole-clhandler.js",
+        "size":  5819
+    },
+    {
+        "md5":  "EF5A351E35DA4091B5EE6285AE7E74F4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/jsconsole.xpt",
+        "name":  "mozilla/components/jsconsole.xpt",
+        "size":  186
+    },
+    {
+        "md5":  "19B61BC5322965459DD4AF4235F59426",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/jsdservice.xpt",
+        "name":  "mozilla/components/jsdservice.xpt",
+        "size":  6045
+    },
+    {
+        "md5":  "4305320DE8E3335A2FB0E4277EE02AE7",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/layout_base.xpt",
+        "name":  "mozilla/components/layout_base.xpt",
+        "size":  532
+    },
+    {
+        "md5":  "838E843CB8C567E637ED79742E8F5CE2",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/layout_printing.xpt",
+        "name":  "mozilla/components/layout_printing.xpt",
+        "size":  911
+    },
+    {
+        "md5":  "F088A9D8C0EFFB7CAA31636F41A7AB6C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/layout_xul.xpt",
+        "name":  "mozilla/components/layout_xul.xpt",
+        "size":  2226
+    },
+    {
+        "md5":  "38A60B1143298EBB642925433CD4F315",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/layout_xul_tree.xpt",
+        "name":  "mozilla/components/layout_xul_tree.xpt",
+        "size":  3401
+    },
+    {
+        "md5":  "CC80F1BAE058628DDE3E823E4A853552",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/locale.xpt",
+        "name":  "mozilla/components/locale.xpt",
+        "size":  1654
+    },
+    {
+        "md5":  "8C2D1EE1E9D1662C4D8BA7DE34AFBB88",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/lwbrk.xpt",
+        "name":  "mozilla/components/lwbrk.xpt",
+        "size":  174
+    },
+    {
+        "md5":  "F6F90D567A5DE6352E6ACB5300955CBF",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/mimetype.xpt",
+        "name":  "mozilla/components/mimetype.xpt",
+        "size":  1448
+    },
+    {
+        "md5":  "ACF75C928DEF2B0340EE42EE1A89FF22",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/mozbrwsr.xpt",
+        "name":  "mozilla/components/mozbrwsr.xpt",
+        "size":  296
+    },
+    {
+        "md5":  "FAB54E38744BA79D670882161D571ECE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/mozfind.xpt",
+        "name":  "mozilla/components/mozfind.xpt",
+        "size":  845
+    },
+    {
+        "md5":  "CE6E8F4B725701063713C8AD7482E19F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko.xpt",
+        "name":  "mozilla/components/necko.xpt",
+        "size":  13588
+    },
+    {
+        "md5":  "EF1D011A911BB53BE028284F3005E146",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_about.xpt",
+        "name":  "mozilla/components/necko_about.xpt",
+        "size":  357
+    },
+    {
+        "md5":  "474B2210A1DE2DFE0E5DE59A4270C6CD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_cache.xpt",
+        "name":  "mozilla/components/necko_cache.xpt",
+        "size":  2150
+    },
+    {
+        "md5":  "2647D3D3BBBADA9162A7D4CF89521B4A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_cookie.xpt",
+        "name":  "mozilla/components/necko_cookie.xpt",
+        "size":  1666
+    },
+    {
+        "md5":  "6233B02D077A9788DC96B6E91E20CA28",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_data.xpt",
+        "name":  "mozilla/components/necko_data.xpt",
+        "size":  122
+    },
+    {
+        "md5":  "C7AC1F0FF1DC99A2CF62C079147213C4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_dns.xpt",
+        "name":  "mozilla/components/necko_dns.xpt",
+        "size":  822
+    },
+    {
+        "md5":  "C0373221EFF720CE1ACD6A491C864175",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_file.xpt",
+        "name":  "mozilla/components/necko_file.xpt",
+        "size":  436
+    },
+    {
+        "md5":  "D8A07BEB05E97C62FF25B6D54E83267A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_ftp.xpt",
+        "name":  "mozilla/components/necko_ftp.xpt",
+        "size":  287
+    },
+    {
+        "md5":  "0FFDEE2A043ABA99FC6056A048A2B12E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_http.xpt",
+        "name":  "mozilla/components/necko_http.xpt",
+        "size":  2144
+    },
+    {
+        "md5":  "B4FA7B5C6E19BDED5EE08B1C28DE0B64",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_res.xpt",
+        "name":  "mozilla/components/necko_res.xpt",
+        "size":  285
+    },
+    {
+        "md5":  "4FA0DE1E1BB251A7722AF87CE78D104D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_socket.xpt",
+        "name":  "mozilla/components/necko_socket.xpt",
+        "size":  920
+    },
+    {
+        "md5":  "0D047E6EA863F3F53FA933D2B880C201",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_strconv.xpt",
+        "name":  "mozilla/components/necko_strconv.xpt",
+        "size":  1450
+    },
+    {
+        "md5":  "ACBEA5B9B887A9CDAC4FAA2E2C361FFE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/necko_viewsource.xpt",
+        "name":  "mozilla/components/necko_viewsource.xpt",
+        "size":  188
+    },
+    {
+        "md5":  "BAE70699E557D46BBBB42D1A5C6A3C8E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsCloseAllWindows.js",
+        "name":  "mozilla/components/nsCloseAllWindows.js",
+        "size":  5275
+    },
+    {
+        "md5":  "7467A634C2C2F756425B468D6D45E5AA",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsDefaultCLH.js",
+        "name":  "mozilla/components/nsDefaultCLH.js",
+        "size":  5914
+    },
+    {
+        "md5":  "1C92F8F659CC1CF3C1904EEC0F97FBD7",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsDictionary.js",
+        "name":  "mozilla/components/nsDictionary.js",
+        "size":  4953
+    },
+    {
+        "md5":  "0188A6A72D4C0889572A8A086E7DAB74",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsExtensionManager.js",
+        "name":  "mozilla/components/nsExtensionManager.js",
+        "size":  282271
+    },
+    {
+        "md5":  "AB44B40D11ED9381C5FF5A9AC2F40912",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsHelperAppDlg.js",
+        "name":  "mozilla/components/nsHelperAppDlg.js",
+        "size":  37320
+    },
+    {
+        "md5":  "40975567DD115988733D8C09C27F398A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsInterfaceInfoToIDL.js",
+        "name":  "mozilla/components/nsInterfaceInfoToIDL.js",
+        "size":  18946
+    },
+    {
+        "md5":  "A47F8EDBAD185F2B0C4CEA2A8592DAED",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsKillAll.js",
+        "name":  "mozilla/components/nsKillAll.js",
+        "size":  7949
+    },
+    {
+        "md5":  "B387595C293F9D4BABAF9F6C7A1B5D8E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsPostUpdateWin.js",
+        "name":  "mozilla/components/nsPostUpdateWin.js",
+        "size":  24848
+    },
+    {
+        "md5":  "114B5065DD39DC857C573AA332CDCD33",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsProgressDialog.js",
+        "name":  "mozilla/components/nsProgressDialog.js",
+        "size":  38110
+    },
+    {
+        "md5":  "CB30F353E68A4E9C99ACFBE6F93E03E3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsProxyAutoConfig.js",
+        "name":  "mozilla/components/nsProxyAutoConfig.js",
+        "size":  13871
+    },
+    {
+        "md5":  "A59A7D9B167FF940DF6DB149935F1227",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsResetPref.js",
+        "name":  "mozilla/components/nsResetPref.js",
+        "size":  7224
+    },
+    {
+        "md5":  "CCFBA4A41123EB58FAB8E52E74807B12",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsUpdateService.js",
+        "name":  "mozilla/components/nsUpdateService.js",
+        "size":  99037
+    },
+    {
+        "md5":  "9EF319703C1B152381759F93312BD3E0",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsXmlRpcClient.js",
+        "name":  "mozilla/components/nsXmlRpcClient.js",
+        "size":  51762
+    },
+    {
+        "md5":  "3B34A56B98A3F9F448CE45339882E34A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/nsXULAppInstall.js",
+        "name":  "mozilla/components/nsXULAppInstall.js",
+        "size":  8482
+    },
+    {
+        "md5":  "7D1E46E3C6170DE0219997870068BE44",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/oji.xpt",
+        "name":  "mozilla/components/oji.xpt",
+        "size":  1120
+    },
+    {
+        "md5":  "D4EB778EA054B9A2EF403E48B9B908AD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/passwordmgr.xpt",
+        "name":  "mozilla/components/passwordmgr.xpt",
+        "size":  276
+    },
+    {
+        "md5":  "E381C63316A65900AAC04B5C960AD8FE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/pipboot.dll",
+        "name":  "mozilla/components/pipboot.dll",
+        "size":  18944
+    },
+    {
+        "md5":  "F8F9B228FE6CC33681F72F9394A361D4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/pipboot.xpt",
+        "name":  "mozilla/components/pipboot.xpt",
+        "size":  628
+    },
+    {
+        "md5":  "421F104E421D727C02DC12760CB07844",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/pipnss.dll",
+        "name":  "mozilla/components/pipnss.dll",
+        "size":  196608
+    },
+    {
+        "md5":  "9E47602A960FC9414515CF27EA483A25",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/pipnss.xpt",
+        "name":  "mozilla/components/pipnss.xpt",
+        "size":  9995
+    },
+    {
+        "md5":  "827D375E3631ECD08EDC6E83C7B29D97",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/pippki.dll",
+        "name":  "mozilla/components/pippki.dll",
+        "size":  19968
+    },
+    {
+        "md5":  "F065FF2F700AC3026A94401A93056E55",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/pippki.xpt",
+        "name":  "mozilla/components/pippki.xpt",
+        "size":  377
+    },
+    {
+        "md5":  "536CD6C235B2FCE84ABFBBE11B88904C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/plugin.xpt",
+        "name":  "mozilla/components/plugin.xpt",
+        "size":  4782
+    },
+    {
+        "md5":  "46B23EF163F85AB68AB5D731AC872099",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/pref.xpt",
+        "name":  "mozilla/components/pref.xpt",
+        "size":  3290
+    },
+    {
+        "md5":  "6624AD7A6FC237252D365899706BB8B3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/prefetch.xpt",
+        "name":  "mozilla/components/prefetch.xpt",
+        "size":  192
+    },
+    {
+        "md5":  "BC5F2A0AD33E2D84DC5E4CA9442399F5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/profile.xpt",
+        "name":  "mozilla/components/profile.xpt",
+        "size":  1973
+    },
+    {
+        "md5":  "D782F5DB1258E67AE5427D6855142B86",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/progressDlg.xpt",
+        "name":  "mozilla/components/progressDlg.xpt",
+        "size":  368
+    },
+    {
+        "md5":  "694DCE0177E7C9C1DB7EC260CFA249ED",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/proxyObject.xpt",
+        "name":  "mozilla/components/proxyObject.xpt",
+        "size":  461
+    },
+    {
+        "md5":  "BBA52F5AEB7A77C96095CEC89A2F8419",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/rdf.xpt",
+        "name":  "mozilla/components/rdf.xpt",
+        "size":  4908
+    },
+    {
+        "md5":  "980399A39DD403963E7190D77EB17515",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/satchel.xpt",
+        "name":  "mozilla/components/satchel.xpt",
+        "size":  570
+    },
+    {
+        "md5":  "283B22D005E6DF752ED2A39772C26FFB",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/shistory.xpt",
+        "name":  "mozilla/components/shistory.xpt",
+        "size":  2805
+    },
+    {
+        "md5":  "67DC70C63EDF8E966CEAA536C81FE63E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/toolkitprofile.xpt",
+        "name":  "mozilla/components/toolkitprofile.xpt",
+        "size":  1088
+    },
+    {
+        "md5":  "AFA645909B686E7CA7FC41764A4C768C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/transformiix.dll",
+        "name":  "mozilla/components/transformiix.dll",
+        "size":  200704
+    },
+    {
+        "md5":  "D9897A726E6745DBB61DACA142153B6A",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/txmgr.xpt",
+        "name":  "mozilla/components/txmgr.xpt",
+        "size":  1258
+    },
+    {
+        "md5":  "DDBE44181B396800B2FFB24C60BF0270",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/txtsvc.xpt",
+        "name":  "mozilla/components/txtsvc.xpt",
+        "size":  759
+    },
+    {
+        "md5":  "3C86AB1A75F0802B630289A75695D0D7",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/uconv.xpt",
+        "name":  "mozilla/components/uconv.xpt",
+        "size":  1491
+    },
+    {
+        "md5":  "C138B9F4F789A512435F7A45F447EF80",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/unicharutil.xpt",
+        "name":  "mozilla/components/unicharutil.xpt",
+        "size":  1181
+    },
+    {
+        "md5":  "123BBBFC25C2E7539B2B0C33CA81DFC6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/universalchardet.dll",
+        "name":  "mozilla/components/universalchardet.dll",
+        "size":  110592
+    },
+    {
+        "md5":  "A1C16B8048590FF334FDBB6C8DD0FA13",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/update.xpt",
+        "name":  "mozilla/components/update.xpt",
+        "size":  2556
+    },
+    {
+        "md5":  "6740C29AC150D5FFD6962F5AB2F31866",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/uriloader.xpt",
+        "name":  "mozilla/components/uriloader.xpt",
+        "size":  2828
+    },
+    {
+        "md5":  "3B158F71F2742D2629A425AB9A707F1F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/webbrowserpersist.xpt",
+        "name":  "mozilla/components/webbrowserpersist.xpt",
+        "size":  2036
+    },
+    {
+        "md5":  "8306520B2B86BDC84F25B3E7ACB8490F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/webBrowser_core.xpt",
+        "name":  "mozilla/components/webBrowser_core.xpt",
+        "size":  5417
+    },
+    {
+        "md5":  "844C953B71D09263D12420C87CA2D049",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/webshell_idls.xpt",
+        "name":  "mozilla/components/webshell_idls.xpt",
+        "size":  1191
+    },
+    {
+        "md5":  "2BE4D9A4DC07F9D3063775360026BFDA",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/websrvcs.dll",
+        "name":  "mozilla/components/websrvcs.dll",
+        "size":  278528
+    },
+    {
+        "md5":  "8DE111646C7BAF8D5B9152D0AF337F42",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/websrvcs.xpt",
+        "name":  "mozilla/components/websrvcs.xpt",
+        "size":  14713
+    },
+    {
+        "md5":  "F98A14CE4651B9344D8A319B3BEA8F1D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/widget.xpt",
+        "name":  "mozilla/components/widget.xpt",
+        "size":  5391
+    },
+    {
+        "md5":  "4D84EFC5F5C5DA8DA91252C0A96E6719",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/windowds.xpt",
+        "name":  "mozilla/components/windowds.xpt",
+        "size":  212
+    },
+    {
+        "md5":  "7986DFDD7AE9E1460BF99CE16BE0BFA9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/windowwatcher.xpt",
+        "name":  "mozilla/components/windowwatcher.xpt",
+        "size":  2353
+    },
+    {
+        "md5":  "2A86483C4DAD667393861664413682D5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xml-rpc.xpt",
+        "name":  "mozilla/components/xml-rpc.xpt",
+        "size":  989
+    },
+    {
+        "md5":  "AFC6E2DEF3DB68AF47763716400EBA15",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xmlextras.dll",
+        "name":  "mozilla/components/xmlextras.dll",
+        "size":  61440
+    },
+    {
+        "md5":  "C03B93DFAC921F7443D886B964C3034E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xmlextras.xpt",
+        "name":  "mozilla/components/xmlextras.xpt",
+        "size":  1458
+    },
+    {
+        "md5":  "F95B52E5C93AF285C4683842C298F27F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpcom_base.xpt",
+        "name":  "mozilla/components/xpcom_base.xpt",
+        "size":  2621
+    },
+    {
+        "md5":  "3BF44980EF2C12DF48C9864646B3FC27",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpcom_components.xpt",
+        "name":  "mozilla/components/xpcom_components.xpt",
+        "size":  3530
+    },
+    {
+        "md5":  "D28B648F5976098A85A3643A292F3C65",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpcom_ds.xpt",
+        "name":  "mozilla/components/xpcom_ds.xpt",
+        "size":  10664
+    },
+    {
+        "md5":  "875CBD41B4FCC2EF2FEBDCD1F2F18979",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpcom_io.xpt",
+        "name":  "mozilla/components/xpcom_io.xpt",
+        "size":  7276
+    },
+    {
+        "md5":  "F68F4F30AD6F76C7325403A35A484762",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpcom_obsolete.xpt",
+        "name":  "mozilla/components/xpcom_obsolete.xpt",
+        "size":  3462
+    },
+    {
+        "md5":  "E01329CB02F0215D9BF86A5D094376BE",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpcom_thread.xpt",
+        "name":  "mozilla/components/xpcom_thread.xpt",
+        "size":  2924
+    },
+    {
+        "md5":  "FF1774DEAB1D1510CA8A1BB73AEDCA57",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpcom_xpti.xpt",
+        "name":  "mozilla/components/xpcom_xpti.xpt",
+        "size":  1560
+    },
+    {
+        "md5":  "AF5E4C454A25376D0E3E0D15A56AF074",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpconnect.xpt",
+        "name":  "mozilla/components/xpconnect.xpt",
+        "size":  7903
+    },
+    {
+        "md5":  "AF4DABCF6618268789B2E5CA17528135",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpinstall.xpt",
+        "name":  "mozilla/components/xpinstall.xpt",
+        "size":  1293
+    },
+    {
+        "md5":  "36D47D190D341EBF23DD4F5092EA8FF6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xpti.dat",
+        "name":  "mozilla/components/xpti.dat",
+        "size":  88339
+    },
+    {
+        "md5":  "2EAA06876237FDE86FA35C2D3682D644",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xulapp.xpt",
+        "name":  "mozilla/components/xulapp.xpt",
+        "size":  658
+    },
+    {
+        "md5":  "6E355D4CA77C3A2D2612504E2752A14D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xulapp_setup.xpt",
+        "name":  "mozilla/components/xulapp_setup.xpt",
+        "size":  198
+    },
+    {
+        "md5":  "08079125B89DB96F237BA8DDA98E36B9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xuldoc.xpt",
+        "name":  "mozilla/components/xuldoc.xpt",
+        "size":  1269
+    },
+    {
+        "md5":  "2C7677969EB7D647B2F33C0B09A69022",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xulrunner.xpt",
+        "name":  "mozilla/components/xulrunner.xpt",
+        "size":  371
+    },
+    {
+        "md5":  "0CBFF0B91BF8305E6AA26694A3DD5632",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xultmpl.xpt",
+        "name":  "mozilla/components/xultmpl.xpt",
+        "size":  1287
+    },
+    {
+        "md5":  "55B338A5CAB00356A8CA357A6D4BF1AD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/components/xulutil.dll",
+        "name":  "mozilla/components/xulutil.dll",
+        "size":  7680
+    },
+    {
+        "md5":  "6B75B6FC7C145B8D81AF1E772A8FBC98",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/greprefs/all.js",
+        "name":  "mozilla/greprefs/all.js",
+        "size":  62484
+    },
+    {
+        "md5":  "2782F317886F5DF261128EF0E37D3CF5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/greprefs/security-prefs.js",
+        "name":  "mozilla/greprefs/security-prefs.js",
+        "size":  1952
+    },
+    {
+        "md5":  "EB2CE400F30E5AAEA7957379005CD5D3",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/greprefs/xpinstall.js",
+        "name":  "mozilla/greprefs/xpinstall.js",
+        "size":  85
+    },
+    {
+        "md5":  "1F689EFBC0C154A9F812F033D6CFB327",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/broken-image.gif",
+        "name":  "mozilla/res/broken-image.gif",
+        "size":  165
+    },
+    {
+        "md5":  "F676D721CD102721353096BCF3FD6B19",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/charsetalias.properties",
+        "name":  "mozilla/res/charsetalias.properties",
+        "size":  11866
+    },
+    {
+        "md5":  "E9B31F8345C8FD7BD017DD010FA64A3B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/charsetData.properties",
+        "name":  "mozilla/res/charsetData.properties",
+        "size":  8708
+    },
+    {
+        "md5":  "B0738CCD2774FC8F532148CCDDA8FB6D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/forms.css",
+        "name":  "mozilla/res/forms.css",
+        "size":  13775
+    },
+    {
+        "md5":  "0C016C31BF6369424576EB280C105866",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/hiddenWindow.html",
+        "name":  "mozilla/res/hiddenWindow.html",
+        "size":  117
+    },
+    {
+        "md5":  "518B506B5D0C16DA781D786B1780ED8E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/html.css",
+        "name":  "mozilla/res/html.css",
+        "size":  10066
+    },
+    {
+        "md5":  "4FDE6983E063747ED6664DB44DCBCBE7",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/langGroups.properties",
+        "name":  "mozilla/res/langGroups.properties",
+        "size":  5793
+    },
+    {
+        "md5":  "A8715B7D8DECA9C033B4B49538EC1B1E",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/language.properties",
+        "name":  "mozilla/res/language.properties",
+        "size":  5707
+    },
+    {
+        "md5":  "A6215AA148A612EE173F1673DC19B28F",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/quirk.css",
+        "name":  "mozilla/res/quirk.css",
+        "size":  12039
+    },
+    {
+        "md5":  "69EA9B0733D309B71AB646958F0B9084",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/svg.css",
+        "name":  "mozilla/res/svg.css",
+        "size":  2315
+    },
+    {
+        "md5":  "D9E36A8F385331D184164E6BE470FBDB",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/ua.css",
+        "name":  "mozilla/res/ua.css",
+        "size":  6288
+    },
+    {
+        "md5":  "D0A90C9CB4A9ED0AA97E99E174A510F4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/viewer.properties",
+        "name":  "mozilla/res/viewer.properties",
+        "size":  12
+    },
+    {
+        "md5":  "DBD4E11C71B4A55A32C21A5EE4DB5B2D",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/wincharset.properties",
+        "name":  "mozilla/res/wincharset.properties",
+        "size":  2136
+    },
+    {
+        "md5":  "F4952E5AA8B60CDD5D920B02CD2DCB03",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/dtd/xhtml11.dtd",
+        "name":  "mozilla/res/dtd/xhtml11.dtd",
+        "size":  8727
+    },
+    {
+        "md5":  "4CFEDE54A48A7FD68B499F96950C49C9",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/entityTables/html40Latin1.properties",
+        "name":  "mozilla/res/entityTables/html40Latin1.properties",
+        "size":  3836
+    },
+    {
+        "md5":  "AC8EBDFA18B216AEC10F15859A739EF6",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/entityTables/html40Special.properties",
+        "name":  "mozilla/res/entityTables/html40Special.properties",
+        "size":  2465
+    },
+    {
+        "md5":  "82C63341BCF46637E6EE179A4636331C",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/entityTables/html40Symbols.properties",
+        "name":  "mozilla/res/entityTables/html40Symbols.properties",
+        "size":  4254
+    },
+    {
+        "md5":  "FA13A583A3CB2F4D7F6CBDA87132B2D5",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/entityTables/htmlEntityVersions.properties",
+        "name":  "mozilla/res/entityTables/htmlEntityVersions.properties",
+        "size":  2017
+    },
+    {
+        "md5":  "AB9EF0C2EEC39B18BE7DABFE5E7346DD",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/entityTables/transliterate.properties",
+        "name":  "mozilla/res/entityTables/transliterate.properties",
+        "size":  37487
+    },
+    {
+        "md5":  "CDB0FA8B41CA812E41D4B51B294C8DA4",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/fonts/fontEncoding.properties",
+        "name":  "mozilla/res/fonts/fontEncoding.properties",
+        "size":  5296
+    },
+    {
+        "md5":  "B04EE19F9B8E63CD8022D0146FA1148B",
+        "url":  "http://swgnexus.ddns.net/swg/launcher/mozilla/res/fonts/fontNameMap.properties",
+        "name":  "mozilla/res/fonts/fontNameMap.properties",
+        "size":  3916
+    }
+]

@@ -1,0 +1,51 @@
+{
+  "name": "source-launcher",
+  "version": "0.1.0",
+  "description": "Electron based SWG Source launcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "build --win --ia32 -p always"
+  },
+  "repository": "https://www.github.com/vikingmando/SourceLauncher",
+  "homepage": "",
+  "keywords": [
+      "launcher",
+    "installer",
+    "swg",
+    "star",
+    "wars",
+    "galaxies",
+    "emulator",
+    "emu",
+    "swgemu",
+    "nexus"
+  ],
+  "author": "Norse Development",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2",
+    "electron-builder": "^19.13.0"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "electron-is-dev": "^0.2.0",
+    "electron-log": "^2.2.7",
+    "electron-updater": "^2.4.5",
+    "follow-redirects": "^1.2.4",
+    "random-access-file": "^1.8.1",
+    "request": "^2.81.0"
+  },
+  "build": {
+    "productName": "Source Launcher",
+    "win": {
+      "target": [
+        "nsis",
+        "zip"
+      ]
+    },
+    "nsis": {
+      "perMachine": true
+    }
+  }
+}
